@@ -20,6 +20,7 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 ### What I love working with:
 - **Backend Development:** Nest.js, Express.js.
 - **Frontend Development:** React.js/Next.js.
+- **Databases & Caching**: PostgreSQL, MySQL/MariaDB, MongoDB, SQLite, Redis
 - **Mobile Development:** Flutter cross-platform UI, Native Android (Kotlin + Jetpack Compose).
 
 ### Languages:

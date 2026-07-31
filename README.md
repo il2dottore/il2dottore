@@ -18,7 +18,7 @@
 I am an Information Technology student and Software Engineer Intern who loves building scalable backend systems. My expertise spans across server-side development, mobile app development, and system integration. I enjoy solving real-world problems with control logic, clean architecture, and low-level optimization.
 
 ### What I love working with:
-- **Backend Development:** Nest.js, Express.js.
+- **Backend Development:** Nest.js, Express.js, FastAPI, Laravel
 - **Frontend Development:** React.js/Next.js.
 - **Databases & Caching**: PostgreSQL, MySQL/MariaDB, MongoDB, SQLite, Redis
 - **Mobile Development:** Flutter cross-platform UI, Native Android (Kotlin + Jetpack Compose).

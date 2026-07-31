@@ -24,7 +24,7 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 - **Mobile Development:** Flutter cross-platform UI, Native Android (Kotlin + Jetpack Compose).
 
 ### Languages:
-- **Vietnamese**: Native language
+- **Vietnamese**: Native language.
 - **English**: Working proficiency - able to read technical documentation and communicate effectively in the workplace.
 - **Mandarin Chinese**: Currently studying HSK 3, with a strong commitment to achieving professional proficiency in Chinese.
 ---

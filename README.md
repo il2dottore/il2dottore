@@ -24,6 +24,7 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 - **Mobile Development:** Flutter cross-platform UI, Native Android (Kotlin + Jetpack Compose).
 
 ### Languages:
+- **Vietnamese**: Native language
 - **English**: Working proficiency - able to read technical documentation and communicate effectively in the workplace.
 - **Mandarin Chinese**: Currently studying HSK 3, with a strong commitment to achieving professional proficiency in Chinese.
 ---
@@ -83,6 +84,18 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 
 ## ⭐ Personal Projects
 
+### 💼 IT Job Board — AI-Powered Job Aggregation & Search Platform
+
+An intelligent job-search platform that aggregates Vietnamese IT job postings from multiple sources and provides hybrid search with an AI-powered assistant.
+- **Job Aggregation:** Crawls job postings from ITViec, TopDev, and JobOKO using browser automation with concurrent workers.
+- **Data Processing:** Normalizes job titles, company names, locations, salaries, skills, job categories, and seniority levels.
+- **Deduplication:** Detects duplicate postings within the same source while preserving listings from different job boards.
+- **Hybrid Search:** Combines Elasticsearch BM25 search and Qdrant vector search using Reciprocal Rank Fusion and cross-encoder reranking.
+- **AI Assistant:** Provides a retrieval-augmented chatbot that answers questions based only on available job postings with source citations.
+- **Background Processing:** Uses Celery, RabbitMQ, and Redis for scheduled crawling, indexing, retries, locking, and maintenance tasks.
+- **Dashboard:** Vue-based interface for browsing jobs, advanced filtering, semantic search, statistics, crawl history, and admin task management.
+- **Tech:** FastAPI, Python, Vue 3, PostgreSQL, SQLAlchemy, Elasticsearch, Qdrant, Celery, RabbitMQ, Redis, Patchright, Sentence Transformers, Docker.
+
 ### ⚡ LoadService — Distributed Load & Resilience Testing Platform
 An load-testing platform for evaluating the performance and resilience of user-controlled infrastructure.
 *   **Resource Management:** Manages networks, worker servers, methods, duration, and concurrent slots.
@@ -116,11 +129,6 @@ A reusable Express.js starter designed for building structured and scalable Type
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=il2dottore&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-### 📚 Hobbies
-- Listening to music
-- Play games
-- Reverse engineering (C# applications, Unity games, APKs)
 
 ---
 

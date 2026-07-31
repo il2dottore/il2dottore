@@ -75,8 +75,8 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 
 | Domain | Tools / Frameworks |
 | ------------------- | ---------------------------------------------------------------------------- |
-| **Mobile** | Kotlin, Jetpack Compose, Flutter, Dart, BLoC / Provider, Firebase Cloud Messaging |
-| **Frontend & Backend** | TypeScript, Node.js (NestJS, Express.js), Laravel, React.js/Next.js |
+| **Mobile** | Flutter, Dart, BLoC / Provider, Firebase Cloud Messaging |
+| **Frontend & Backend** | TypeScript, Node.js (NestJS, Express.js), Python (FastAPI), PHP (Laravel), React.js/Next.js |
 | **Core Concepts** | Event-Driven, Microservices, Message Queue |
 | **Cloud & DevOps** | GitHub Actions, Linux server management, Docker, RabbitMQ |
 
@@ -114,16 +114,16 @@ A full-stack messaging application supporting real-time conversations, media sha
 *   **Deployment:** Set up CI/CD with GitHub Actions for automated Docker builds and SSH-based VM deployment.
 *   **Tech:** NestJS, TypeScript, Flutter, Dart, MongoDB, TypeORM, Socket.IO, WebRTC, Firebase Cloud Messaging, S3-compatible storage, Docker.
 
-### 🚀 Express Starter Project — Modular Backend Template
-A reusable Express.js starter designed for building structured and scalable TypeScript backend applications.
-*   **Modular Architecture:** Organizes features into controllers, services, entities, DTOs, and middleware.
-*   **Dependency Injection:** Uses InversifyJS to manage services, databases, controllers, and Socket.IO.
-*   **Custom Decorators:** Provides controller, route, and middleware decorators similar to NestJS.
-*   **Validation:** Supports request transformation and DTO validation with class-transformer and class-validator.
-*   **Database:** Integrates PostgreSQL through MikroORM with repositories and migrations.
-*   **Request Context:** Uses AsyncLocalStorage to access request and response instances across services.
-*   **Real-Time Support:** Includes Socket.IO for WebSocket-based features.
-*   **Tech:** Express.js, TypeScript, PostgreSQL, MikroORM, InversifyJS, Socket.IO.
+### ⚙️ Chrome Remote Interface — Typed Async Chrome DevTools Protocol Client
+A low-level asynchronous Python client for interacting with Chrome and Chromium through the Chrome DevTools Protocol (CDP).
+- **Protocol Communication:** Connects to Chrome debugging targets over WebSocket using `asyncio`.
+- **Type-Safe API:** Provides generated typed modules for CDP domains, commands, parameters, responses, events, payloads, aliases, and enums.
+- **Event Management:** Supports typed event callbacks, awaitable one-shot listeners, and session-specific event filtering.
+- **Browser Control:** Enables page navigation, JavaScript execution, network monitoring, target management, browser inspection, and runtime debugging.
+- **Target & Session Support:** Connects to browser targets, creates and attaches to tabs, and supports flattened CDP sessions.
+- **Protocol Generation:** Generates Python bindings from the CDP schema and supports protocol updates for newer Chrome versions.
+- **Developer Tools:** Includes browser discovery helpers and a CLI for listing targets, creating pages, inspecting browsers, and fetching protocol descriptors.
+- **Tech:** Python, AsyncIO, WebSockets, TypedDict, Chrome DevTools Protocol, JSON, Pyright, Ruff, Setuptools.
 
 ---
 
